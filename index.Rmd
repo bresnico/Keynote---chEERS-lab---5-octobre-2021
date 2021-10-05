@@ -63,18 +63,198 @@ background-size: cover
 ---
 class: , middle left
 
-## TL;DR
+## TL;DR &#x1f634;
 
 --
 
-### What: xxx
+### What
+Impact of strength based interventions on class cohesion in inclusive settings
 
 --
 
-### How: xxx
+### How
+
+1. theoretical framework (solo) &#129312; 
+1. adult french scale validation &#129299; 
+1. french child scale validation &#128556;	
+1. full experiment! &#129323;	
 
 --
 
-### When: xxx
+### When
+
+From 2020 to 2024
 
 ---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
+background-size: cover
+
+# What
+
+---
+class: left, inverse
+
+# Main goal
+--
+
+### How can a strength-based intervention in schools foster school engagement and peers relationships ?
+
+--
+
+- Character strengths as proposed by Peterson and Seligman (VIA institute)
+--
+
+- Interventions adapted with the teacher and teached by the teacher.
+--
+
+- Engagement as a predictor of students outcomes (e.g. Fredricks)
+--
+
+- Relationships as part of what leads to a good classroom climate (e.g. Gaudreau)
+--
+
+- Classroom climate as a variable of interest in special education especially in inclusive settings.
+
+---
+class: left, inverse
+
+# Material needed
+--
+
+### An intervention &#128077;	
+
+--
+
+### A scale to measure strength use &#128078;
+
+--
+
+### A website to collect data &#128078;
+
+---
+
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1434626881859-194d67b2b86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1953&q=80")
+background-size: cover
+
+# How
+
+---
+
+class: middle, left 
+
+# 4 articles
+--
+
+.pull-left[
+### Article #1	&#129312;
+
+- theoretical framework
+- inclusive settings and happiness
+- no data
+- a proposal
+
+]
+
+--
+
+.pull-right[
+
+### Article #2 &#129299;
+
+- french strength use scale for adults validation
+- data already available
+- collaboration with France and Canada
+- exploratory factor analysis
+
+]
+
+---
+class: middle, left 
+
+# 4 articles
+
+
+.pull-left[
+### Article #3	&#128556;
+
+- strength use scale for children validation
+- french and/or german and/or english
+- needs a website
+- AFE and external validity
+
+]
+
+--
+
+.pull-right[
+
+### Article #4 &#129323;
+
+- teacher training
+- strength based intevention
+- effects on cohesion
+- multilevel analysis
+
+
+]
+
+---
+
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
+background-size: cover
+
+## When
+
+
+---
+
+class: middle, left, inverse
+
+# Some deadlines
+--
+
+### Article 1 &#10132; end 2021 &#10132; mid 2022
+--
+
+### Article 2 &#10132; end 2021 &#10132; mid 2022
+--
+
+### Article 3 &#10132; end 2022 &#10132; end 2022
+--
+
+### Article 4 &#10132; mid 2023 &#10132; mid 2024
+
+---
+
+class: middle
+
+.left[
+
+
+## &#x1F60D; Thank you!
+
+
+<!-- <img src="fit.png" width="15%" /> -->
+
+
+]
+
+--
+
+.right[
+
+
+Photo credits in order of appearance:
+
+[Lili Popper](https://unsplash.com/photos/lu15z1m_KfM)
+
+[John Schnobrich](https://unsplash.com/photos/2FPjlAyMQTA)
+
+[Firmbee.com](https://unsplash.com/photos/jrh5lAq-mIs)
+
+[Marvin Meyer](https://unsplash.com/photos/SYTO3xs06fU)
+
+]
